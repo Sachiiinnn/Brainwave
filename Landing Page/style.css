@@ -301,6 +301,18 @@ section::before {
     z-index: -1;
 }
 
+@media(max-width:350px){
+    .content .social{
+        display: none;
+    }
+    .content{
+        margin:0;
+    }
+    .header .navbar{
+        height: 36.5vh;
+    }
+}
+
 a:focus,
 button:focus,
 i:focus {
