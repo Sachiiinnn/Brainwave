@@ -57,7 +57,7 @@ No additional dependencies required. This is a fully static site.
 ```
 
 ---
-🚀 **Live Demo**: [View Site](travel-landing-page-sachiiinnn.netlify.app)
+🚀 **Live Demo**: [View Site](https://travel-landing-page-sachiiinnn.netlify.app/)
 ---
 
 ---
