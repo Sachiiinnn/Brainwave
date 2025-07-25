@@ -205,6 +205,8 @@ i {
         position: absolute;
         top: 35%;
         transition: all linear 0.5s;
+        overflow-x: hidden;
+        overflow-y: hidden;
     }
 
 
