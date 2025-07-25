@@ -6,6 +6,7 @@ html, body {
     font-family: "Saira", sans-serif;
     box-sizing: border-box;
     overflow-x: hidden;
+    overflow-y: hidden;
     transition: 0.2s linear all;
     scroll-padding-top: 9rem;
     scroll-behavior: smooth;
