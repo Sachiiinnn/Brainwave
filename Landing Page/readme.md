@@ -76,9 +76,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
----
 ⭐️ If you like this project, give it a star on [GitHub](https://github.com/Sachiiinnn/Brainwave)!
-----
+---
 
 📄 License
 
