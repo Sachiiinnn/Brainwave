@@ -10,6 +10,7 @@ html, body {
     transition: 0.2s linear all;
     scroll-padding-top: 9rem;
     scroll-behavior: smooth;
+    height: 100vh;
 }
 
 * {
