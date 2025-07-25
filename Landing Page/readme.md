@@ -2,7 +2,7 @@
 
 Welcome to the **Travel Landing Page** — a visually stunning, responsive website designed to ignite wanderlust and drive engagement. This landing page serves as a perfect front for a travel agency, tour planner, or personal travel brand.
 
-![Travel Preview ](https://img.freepik.com/free-vector/detailed-travel-logo_23-2148614180.jpg?t=st=1753338618~exp=1753342218~hmac=3788744228919cd3bd81c2191bc715bfebf0fdb6ab17ee762f78311195f4840e)
+![Travel Preview ](Landing_Page.png)
 
 
 ## ✨ Features
