@@ -3,7 +3,7 @@
 :root {
   --header-height: 3.5rem;
 
-  --first-color: hsl(0, 100%, 70%);
+  --first-color: rgb(54,54,54);
   --button-color: hsl(0, 0%, 17%);
   --title-color: hsl(0, 0%, 15%);
   --text-color: hsl(0, 0%, 35%);
@@ -636,7 +636,7 @@ body.dark-theme {
 }
 
 .new__tag {
-  background-color: var(--first-color);
+  background-color: rgb(54,54,54,0.2);
   padding: .5rem 1rem;
   color: #fff;
   text-transform: uppercase;
