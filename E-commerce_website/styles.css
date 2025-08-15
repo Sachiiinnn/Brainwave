@@ -288,7 +288,7 @@ body.dark-theme {
 }
 
 .home__img-bg {
-  background-color: rgb(69, 70, 70);
+  background-color: var(--first-color);
   width: 258px;
   height: 430px;
   padding-bottom: 2rem;
@@ -456,7 +456,7 @@ body.dark-theme {
 
 .story__square {
   height: 250px;
-  background-color: rgb(69, 70, 70);
+  background-color: var(--first-color);
 }
 
 .story__img {
@@ -585,7 +585,7 @@ body.dark-theme {
 
 .testimonial__square {
   height: 250px;
-  background-color: rgb(69, 70, 70);
+  background-color: var(--first-color);
   margin-left: auto;
 }
 
@@ -702,7 +702,7 @@ body.dark-theme {
 
 /*=============== NEWSLETTER ===============*/
 .newsletter__bg {
-  background-color: rgba(69, 70, 70, 0.318);
+  background-color: var(--first-color);
   padding: 3rem 1.5rem;
   text-align: center;
   row-gap: 2.5rem;
