@@ -66,13 +66,12 @@ Modify style.css or script.js as needed.
 ---
 📌 To-Do / Improvements
 
- Add user authentication
+1. Add user authentication
 
- Integrate a payment gateway
+2. Integrate a payment gateway
 
- Connect to backend (Node.js, Firebase, etc.)
+3. Connect to backend (Node.js, Firebase, etc.)
 
- Store data using localStorage or database
  ---
 
 
