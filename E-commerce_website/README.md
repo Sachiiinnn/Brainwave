@@ -77,4 +77,4 @@ Modify style.css or script.js as needed.
 
 🙋‍♂️ Author
 
-Developed by [https://github.com/Sachiiinnn](Sachin)
+Developed by [Sachin](https://github.com/Sachiiinnn)
