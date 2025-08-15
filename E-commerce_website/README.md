@@ -13,7 +13,8 @@ A modern and responsive e-commerce website built with a clean UI and functional 
 
 ---
 
-##Live
+## Live
+
 [chronix](https://chronix-sachiiinnn.netlify.app/)
 
 ---
