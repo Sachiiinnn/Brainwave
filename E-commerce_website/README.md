@@ -32,7 +32,7 @@ A modern and responsive e-commerce website built with a clean UI and functional 
 ---
 
 ## 📂 Folder Structure
-
+```
 E-commerce_website/
 │
 ├── index.html
@@ -43,7 +43,7 @@ E-commerce_website/
 ├── assets/
 │ └── images, icons, etc.
 └── README.md
-
+```
 
 ---
 
