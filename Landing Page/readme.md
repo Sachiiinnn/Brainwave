@@ -56,6 +56,9 @@ No additional dependencies required. This is a fully static site.
 └── README.md
 ```
 
+---
+🚀 **Live Demo**: [View Site](https://travel-landing-page-sachiiinnn.netlify.app/)
+---
 
 ---
 
@@ -71,7 +74,9 @@ Sachin
 
 Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
 
+---
 
+⭐️ If you like this project, give it a star on [GitHub](https://github.com/Sachiiinnn/Brainwave)!
 ---
 
 📄 License
