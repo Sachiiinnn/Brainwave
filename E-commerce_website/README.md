@@ -11,6 +11,13 @@ A modern and responsive e-commerce website built with a clean UI and functional 
 
 ---
 
+---
+
+##Live
+[chronix](https://chronix-sachiiinnn.netlify.app/)
+
+---
+
 ## 🚀 Features
 
 - 🖼️ Browse products with images, prices, and descriptions  
